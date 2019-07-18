@@ -447,6 +447,8 @@
 
 [go笔记](https://github.com/EDDYCJY/blog)
 
+[🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区](https://github.com/frank-lam/fullstack-tutorial)
+
 ---
 
 [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools)
