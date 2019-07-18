@@ -481,6 +481,8 @@
 
 [git book](https://git-scm.com/book/zh/v2)
 
+[git-commit-msg-linter](https://github.com/legend80s/commit-msg-linter)
+
 [搜云盘](http://uyi2.com/yunso)
 
 ---
