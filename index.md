@@ -297,6 +297,8 @@
 
 [深入理解 Node Stream 内部机制](https://www.barretlee.com/blog/2017/06/06/dive-to-nodejs-at-stream-module/)
 
+[Node 最快、最可靠、基于 redis 的队列。](https://github.com/OptimalBits/bull)
+
 ---
 
 [TypeScript 入门教程](https://ts.xcatliu.com/)
