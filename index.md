@@ -433,7 +433,8 @@
 
 [前端监控方案](https://github.com/RicardoCao-Biker/Front-End-Monitoring)
 
-[Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.7mqxm4jekyct)g
+[Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.7mqxm4jekyct)
+
 [git book](https://git-scm.com/book/zh/v2)
 
 [搜云盘](http://uyi2.com/yunso)
