@@ -75,6 +75,8 @@
 
 [naice博客](https://blog.naice.me/article)
 
+[安安哥博客](https://github.com/sisterAn/blog)
+
 [洞香春博客](https://wdd.js.org/)
 
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
@@ -89,6 +91,8 @@
 
 [node 源码粗读系列](https://github.com/xtx1130/blog)
 
+[七天学会nodejs](http://nqdeng.github.io/7-days-nodejs/#1.1)
+
 [TypeScript 入门教程](https://ts.xcatliu.com/)
 
 [The Biggest Online Tutorials Library, It's all Free](https://www.tutorialspoint.com/)
@@ -99,7 +103,25 @@
 
 [The Road to GraphQL](https://github.com/the-road-to-graphql)
 
+[整理我平时关注的前端库](https://github.com/sorrycc/awesome-f2e-libs)
+
+[SURVIVEJS](https://survivejs.com/webpack/)
+
 [Webpack optimizations](https://github.com/GoogleChromeLabs/webpack-training-project)
+
+[Web前后端漏洞分析与防御-知识梳理](https://github.com/TYRMars/WebSafe-StepPitGuide)
+
+[storyBook](https://www.learnstorybook.com/react/zh-TW/simple-component/）
+
+[小程序、h5等前端领域](https://github.com/Tnfe/TNFE-Weekly)
+
+[javascript半知半解](https://www.kancloud.cn/dennis/tgjavascript/241801)
+
+[Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way)
+
+[]()
+
+
 
 
 
