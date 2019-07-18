@@ -1,4 +1,6 @@
 # 学习资料
+
+
 [前端面试之道](https://yuchengkai.cn/docs/frontend/)
 
 [前端面试题整理](http://blog.poetries.top/FE-Interview-Questions/)
@@ -14,6 +16,8 @@
 [前端基础漫游指南](https://cheogo.github.io/learn-javascript/)
 
 [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
+
+[前端技能树](https://platform.html5.org/)
 
 [大前端面试宝典](https://lucifer.ren/fe-interview/#/)
 
@@ -43,11 +47,17 @@
 
 [Exploring JS: JavaScript book](https://exploringjs.com/)
 
+---
+
 [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
 [用JavaScript实现的算法和数据结构，附详细解释和刷题指南](https://github.com/ConardLi/awesome-coding-js)
 
 [算法实践](https://github.com/qcer/Algo-Practice)
+
+[All algorithms implemented in Javascript ](https://github.com/TheAlgorithms/Javascript)
+
+---
 
 [2018.stateofjs.com](https://2018.stateofjs.com/cn/introduction/)
 
@@ -63,8 +73,6 @@
 
 [汤姆大叔](https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 
-[All algorithms implemented in Javascript ](https://github.com/TheAlgorithms/Javascript)
-
 [javascript/design-patterns](https://www.dofactory.com/javascript/design-patterns)
 
 [现代 Web 开发导论](https://github.com/wx-chevalier/Web-Series)
@@ -75,9 +83,13 @@
 
 [互联网时代前端"手工艺人"的百宝箱](https://github.com/f2e-journey/treasure)
 
+---
+
 [30 seconds](https://github.com/30-seconds)
 
 [30-seconds-of-code-Zh-CN](https://github.com/ConardLi/30-seconds-of-code-Zh-CN)
+
+---
 
 [前端精读周刊](https://github.com/dt-fe/weekly)
 
@@ -91,6 +103,8 @@
 
 [xgfe](https://xgfe.github.io/Basics/)
 
+---
+
 [js开发群月报](https://www.kancloud.cn/jsfront/month/82799)
 
 [前端进阶】优质博文](https://github.com/YvetteLau/Blog)
@@ -100,6 +114,8 @@
 [前端真好玩](https://github.com/KieSun/awesome-fe-study-source)
 
 [优质的技术博客、社区推荐](https://github.com/phpdever/resource-index)
+
+---
 
 [叶念博客](https://github.com/jawil/blog/issues/16)
 
@@ -153,8 +169,6 @@
 
 [洞香春博客](https://wdd.js.org/)
 
-[JS正则表达式完整教程](https://juejin.im/post/5965943ff265da6c30653879)
-
 [mengtuifrontend 博客](https://github.com/mengtuifrontend/Blog)
 
 [百度侯策](https://juejin.im/user/58305395a22b9d006b83d214/posts)
@@ -175,7 +189,11 @@
 
 [学习是自己的事](https://github.com/xiaohesong/TIL)
 
+---
+
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+
+---
 
 [HEAD](https://github.com/joshbuchea/HEAD)
 
@@ -186,6 +204,10 @@
 [经典技术书籍 PDF 文件](https://github.com/royeo/awesome-programming-books)
 
 [fe-necessary-book](https://github.com/ddzy/fe-necessary-book)
+
+[技术书下载](http://www.allitebooks.org/)
+
+---
 
 [现代 JavaScript 教程中文版](https://github.com/javascript-tutorial/zh.javascript.info)
 
@@ -199,11 +221,15 @@
 
 [Node.js中 stream模块的学习积累和理解](https://github.com/zoubin/streamify-your-node-program)
 
+---
+
 [TypeScript 入门教程](https://ts.xcatliu.com/)
 
 [Ts设计模式](https://github.com/torokmark/design_patterns_in_typescript)
 
 [learn Ts](https://github.com/TypeStrong/learn-typescript)
+
+---
 
 [The Biggest Online Tutorials Library, It's all Free](https://www.tutorialspoint.com/)
 
@@ -214,6 +240,8 @@
 [learn GraphQL](https://github.com/mugli/learning-graphql)
 
 [The Road to GraphQL](https://github.com/the-road-to-graphql)
+
+---
 
 [整理我平时关注的前端库](https://github.com/sorrycc/awesome-f2e-libs)
 
@@ -243,9 +271,14 @@
 
 [css-tricks](https://css-tricks.com/guides/)
 
+---
+
+
 [《HTTP权威指南》概念手册](https://github.com/woai30231/http)
 
 [HTTP协议原理分享](https://github.com/Q-Angelo/http-protocol#http%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B)
+
+---
 
 [How Web Works](https://github.com/vasanthk/how-web-works)
 
@@ -255,6 +288,8 @@
 
 [必会的 24 道 Shell 脚本面试题](https://mp.weixin.qq.com/s/sVaQxGZwU-C3679CDX4uCw)
 
+---
+
 [VSCode插件开发全攻略配套demo](https://github.com/sxei/vscode-plugin-demo)
 
 [vscode插件开发文档](https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/)
@@ -263,7 +298,14 @@
 
 [vscode插件](https://github.com/varHarrie/varharrie.github.io/issues/10)
 
-[flutter](https://jspang.com/posts/2019/03/01/flutter-shop.html#%E7%AC%AC61%E8%8A%82%EF%BC%9A%E8%B4%AD%E7%89%A9%E8%BD%A6-%E5%95%86%E5%93%81%E6%95%B0%E9%87%8F%E7%9A%84%E5%8A%A0%E5%87%8F%E6%93%8D%E4%BD%9C)
+---
+
+[flutter视频
+](https://jspang.com/posts/2019/03/01/flutter-shop.html#%E7%AC%AC61%E8%8A%82%EF%BC%9A%E8%B4%AD%E7%89%A9%E8%BD%A6-%E5%95%86%E5%93%81%E6%95%B0%E9%87%8F%E7%9A%84%E5%8A%A0%E5%87%8F%E6%93%8D%E4%BD%9C)
+
+[flutter实战](https://book.flutterchina.club/chapter1/)
+
+---
 
 [油猴脚本](https://github.com/syhyz1990/baiduyun)
 
@@ -289,6 +331,8 @@
 
 [一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516?utm_source=gold_browser_extension)
 
+[JS正则表达式完整教程](https://juejin.im/post/5965943ff265da6c30653879)
+
 [如何写出漂亮的 JavaScript 代码](https://juejin.im/post/5d0e11196fb9a07eee5ed6d2?utm_source=gold_browser_extension)
 
 [Chrome插件开发全攻略](https://github.com/sxei/chrome-plugin-demo)
@@ -301,9 +345,13 @@
 
 [Electron构建跨平台应用](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 
+---
+
 [Golang笔记](https://github.com/overnote/golang)
 
 [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+
+---
 
 [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools)
 
@@ -312,6 +360,8 @@
 [tc39详细进度](https://github.com/tc39/proposals)
 
 [最新 JavaScript / ECMAScript 特性介绍](https://esnext.justjavac.com/)
+
+---
 
 [js-ast可视化](http://resources.jointjs.com/demos/javascript-ast)
 
@@ -323,7 +373,8 @@
 
 [前端监控方案](https://github.com/RicardoCao-Biker/Front-End-Monitoring)
 
-[]()
+[Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.7mqxm4jekyct)g
+[git book](https://git-scm.com/book/zh/v2)
 
 
 
