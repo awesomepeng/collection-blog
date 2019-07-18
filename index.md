@@ -3,11 +3,17 @@
 
 [前端面试题整理](http://blog.poetries.top/FE-Interview-Questions/)
 
+[Tech Interview Guide 技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+
 [前端基础漫游指南](https://cheogo.github.io/learn-javascript/)
 
 [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 
+[What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html)
+
 [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+
+[Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#angularjs)
 
@@ -18,6 +24,10 @@
 [Exploring JS: JavaScript book](https://exploringjs.com/)
 
 [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+
+[All algorithms implemented in Javascript ](https://github.com/TheAlgorithms/Javascript)
+
+[javascript/design-patterns](https://www.dofactory.com/javascript/design-patterns)
 
 [30 seconds](https://github.com/30-seconds)
 
@@ -49,6 +59,31 @@
 
 [颜海镜](https://yanhaijing.com/)
 
+[creeperyang 博客](https://github.com/creeperyang/blog/issues)
+
+[purplebamboo 博客](https://github.com/purplebamboo/blog/issues)
+
+[mtonhuang 博客](https://github.com/mtonhuang/blog)
+
+[xd-tayde 博客](https://github.com/xd-tayde/blog)
+
+[React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+
+[HEAD](https://github.com/joshbuchea/HEAD)
+
+[算法书下载](https://www.jqhtml.com/down/tag/%e7%ae%97%e6%b3%95)
+
+[编程书籍的整理和收集](https://github.com/KeKe-Li/book)
+
+[如何成为 Node.js 全栈工程师?](https://github.com/MiYogurt/nodelover-maps)
+
+[TypeScript 入门教程](https://ts.xcatliu.com/)
+
+[The Biggest Online Tutorials Library, It's all Free](https://www.tutorialspoint.com/)
+
 []()
+
+
+
 
 
