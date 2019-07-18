@@ -435,6 +435,8 @@
 
 [go](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/01.1.md)
 
+[go笔记](https://github.com/EDDYCJY/blog)
+
 ---
 
 [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools)
