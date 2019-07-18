@@ -243,6 +243,8 @@
 
 [剖析 React 源码](https://github.com/KieSun/Dream/issues/18)
 
+[30 Days of React](https://github.com/fullstackreact/30-days-of-react)
+
 ---
 
 [HEAD](https://github.com/joshbuchea/HEAD)
