@@ -43,7 +43,15 @@
 
 [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
+[2018.stateofjs.com](https://2018.stateofjs.com/cn/introduction/)
+
+[Awsome-Front-End-Xmind](https://github.com/bailinlin/Awsome-Front-End-Xmind)
+
+[Code for the book Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms)
+
 [JavaScript 前端知识图谱](https://github.com/tsejx/JavaScript-Guidebook)
+
+[前端生态知识库集锦](https://www.yuque.com/robinson/fe-guide/kw-links)
 
 [All algorithms implemented in Javascript ](https://github.com/TheAlgorithms/Javascript)
 
@@ -51,7 +59,13 @@
 
 [现代 Web 开发导论](https://github.com/wx-chevalier/Web-Series)
 
+[阿里前端p7架构图谱](https://juejin.im/post/5cf5f358e51d45778f076ce5?utm_source=gold_browser_extension)
+
+[前端技术架构图谱](https://github.com/f2e-awesome/knowledge)
+
 [30 seconds](https://github.com/30-seconds)
+
+[30-seconds-of-code-Zh-CN](https://github.com/ConardLi/30-seconds-of-code-Zh-CN)
 
 [前端精读周刊](https://github.com/dt-fe/weekly)
 
@@ -60,6 +74,14 @@
 [薄荷前端周刊](https://github.com/BooheeFE/weekly)
 
 [考拉前端前端博客](http://blog.kaolafed.com/)
+
+[腾讯新闻团队](https://github.com/Tnfe/TNFE-Diagram)
+
+[xgfe](https://xgfe.github.io/Basics/)
+
+[js开发群月报](https://www.kancloud.cn/jsfront/month/82799)
+
+[前端进阶】优质博文](https://github.com/YvetteLau/Blog)
 
 [FE-learning](https://github.com/qiu-deqing/FE-learning#%E8%B7%9F%E5%AF%B9%E7%A5%9E)
 
@@ -73,7 +95,11 @@
 
 [前端工匠](https://github.com/ljianshu/Blog)
 
+[阿里王伟](https://github.com/muwoo/blogs)
+
 [待我代码编成，娶你为妻可好](https://github.com/phodal)
+
+[朱邦邦的JavaScript学习笔记](https://github.com/anbang/zhubangbang-javascript-notes)
 
 [木易杨的博客](https://github.com/yygmind/blog)
 
@@ -111,6 +137,10 @@
 
 [洞香春博客](https://wdd.js.org/)
 
+[JS正则表达式完整教程](https://juejin.im/post/5965943ff265da6c30653879)
+
+[mengtuifrontend 博客](https://github.com/mengtuifrontend/Blog)
+
 [百度侯策](https://juejin.im/user/58305395a22b9d006b83d214/posts)
 
 [Cyrilszq博客](https://github.com/Cyrilszq/Cyril-Blog)
@@ -137,13 +167,25 @@
 
 [经典技术书籍 PDF 文件](https://github.com/royeo/awesome-programming-books)
 
+[fe-necessary-book](https://github.com/ddzy/fe-necessary-book)
+
+[现代 JavaScript 教程中文版](https://github.com/javascript-tutorial/zh.javascript.info)
+
 [如何成为 Node.js 全栈工程师?](https://github.com/MiYogurt/nodelover-maps)
 
 [node 源码粗读系列](https://github.com/xtx1130/blog)
 
 [七天学会nodejs](http://nqdeng.github.io/7-days-nodejs/#1.1)
 
+[Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
+
+[Node.js中 stream模块的学习积累和理解](https://github.com/zoubin/streamify-your-node-program)
+
 [TypeScript 入门教程](https://ts.xcatliu.com/)
+
+[Ts设计模式](https://github.com/torokmark/design_patterns_in_typescript)
+
+[learn Ts](https://github.com/TypeStrong/learn-typescript)
 
 [The Biggest Online Tutorials Library, It's all Free](https://www.tutorialspoint.com/)
 
@@ -183,9 +225,11 @@
 
 [《HTTP权威指南》概念手册](https://github.com/woai30231/http)
 
-[Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command）
+[ Linux命令大全搜索工具 ](https://github.com/jaywcjlove/linux-command）
 
 [bash-handbook](https://github.com/denysdovhan/bash-handbook/blob/master/translations/zh-CN/README.md)
+
+[必会的 24 道 Shell 脚本面试题](https://mp.weixin.qq.com/s/sVaQxGZwU-C3679CDX4uCw)
 
 [VSCode插件开发全攻略配套demo](https://github.com/sxei/vscode-plugin-demo)
 
@@ -201,9 +245,35 @@
 
 [faastjs](https://faastjs.org/)
 
+[hybrids](https://hybrids.js.org/)
+
 [GitHub 漫游指南](https://github.com/phodal/github)
 
-[]()
+[源码阅读](https://github.com/soraping/any-source)
+
+[Chrome开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
+
+[JavaScript Clean Code - Best Practices](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices)
+
+[libuv了解一下](https://zhuanlan.zhihu.com/p/50497450)
+
+[你知道为什么 Facebook 的 API 以一个循环作为开头吗？](https://www.infoq.cn/article/amG8alwLDGBXsoc_vyNs)
+
+[Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
+
+[一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516?utm_source=gold_browser_extension)
+
+[Chrome插件开发全攻略](https://github.com/sxei/chrome-plugin-demo)
+
+[developer.chrome](https://developer.chrome.com/extensions/contextMenus)
+
+[vue-cli3开发Chrome插件实践](https://juejin.im/post/5ceca3d96fb9a07eea3252f9)
+
+[JS 函数式编程指南中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)
+
+[Electron构建跨平台应用](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
+
+[Golang笔记](https://github.com/overnote/golang)
 
 
 
