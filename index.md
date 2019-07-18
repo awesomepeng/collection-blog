@@ -207,6 +207,8 @@
 
 [技术书下载](http://www.allitebooks.org/)
 
+[经典编程书籍大全](https://github.com/lietoumai/awesome-programming-books)
+
 ---
 
 [现代 JavaScript 教程中文版](https://github.com/javascript-tutorial/zh.javascript.info)
@@ -221,6 +223,30 @@
 
 [Node.js中 stream模块的学习积累和理解](https://github.com/zoubin/streamify-your-node-program)
 
+[koa2-tutorial](https://github.com/ikcamp/koa2-tutorial)
+
+[koa2-note](https://github.com/chenshenhai/koa2-note)
+
+[awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#mad-science)
+
+[命令行工具](https://github.com/jaywcjlove/wcj/blob/master/README.md)
+
+[脚手架](https://github.com/iq9891/blog/issues/2)
+
+[Node.js进阶之进程与线程](https://www.imooc.com/article/288006)
+
+[深入理解Node.js：核心思想与源码分析](https://github.com/yjhjstz/deep-into-node)
+
+[Koa2-blog](https://github.com/wclimb/Koa2-blog)
+
+[Nodejs学习笔记以及经验总结，公众号"程序猿小卡"](https://github.com/chyingp/nodejs-learning-guide)
+
+[Node.js 最佳实践](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md)
+
+[一起学 Node.js](https://github.com/nswbmw/N-blog)
+
+[深入理解 Node Stream 内部机制](https://www.barretlee.com/blog/2017/06/06/dive-to-nodejs-at-stream-module/)
+
 ---
 
 [TypeScript 入门教程](https://ts.xcatliu.com/)
@@ -228,6 +254,10 @@
 [Ts设计模式](https://github.com/torokmark/design_patterns_in_typescript)
 
 [learn Ts](https://github.com/TypeStrong/learn-typescript)
+
+[深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+
+[TypeScript使用手册](https://github.com/zhongsp/TypeScript)
 
 ---
 
@@ -363,6 +393,12 @@
 
 [最新 JavaScript / ECMAScript 特性介绍](https://esnext.justjavac.com/)
 
+[es6.io](https://github.com/wesbos/es6.io)
+
+[polyfill.io](https://polyfill.io/v3/)
+
+[如何写好javascript](https://ppt.baomitu.com/d/760c9ae7#/)
+
 ---
 
 [js-ast可视化](http://resources.jointjs.com/demos/javascript-ast)
@@ -377,6 +413,8 @@
 
 [Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.7mqxm4jekyct)g
 [git book](https://git-scm.com/book/zh/v2)
+
+[搜云盘](http://uyi2.com/yunso)
 
 
 
