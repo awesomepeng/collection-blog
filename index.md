@@ -15,6 +15,8 @@
 
 [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 
+[大前端面试宝典](https://lucifer.ren/fe-interview/#/)
+
 [前端小白半年准备，成功进入BAT](https://github.com/brickspert/blog/issues/16)
 
 [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
@@ -43,6 +45,10 @@
 
 [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
+[用JavaScript实现的算法和数据结构，附详细解释和刷题指南](https://github.com/ConardLi/awesome-coding-js)
+
+[算法实践](https://github.com/qcer/Algo-Practice)
+
 [2018.stateofjs.com](https://2018.stateofjs.com/cn/introduction/)
 
 [Awsome-Front-End-Xmind](https://github.com/bailinlin/Awsome-Front-End-Xmind)
@@ -51,7 +57,11 @@
 
 [JavaScript 前端知识图谱](https://github.com/tsejx/JavaScript-Guidebook)
 
+[avaScript 进阶问题列表](https://github.com/lydiahallie/javascript-questions/blob/master/README-zh_CN.md)
+
 [前端生态知识库集锦](https://www.yuque.com/robinson/fe-guide/kw-links)
+
+[汤姆大叔](https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 
 [All algorithms implemented in Javascript ](https://github.com/TheAlgorithms/Javascript)
 
@@ -62,6 +72,8 @@
 [阿里前端p7架构图谱](https://juejin.im/post/5cf5f358e51d45778f076ce5?utm_source=gold_browser_extension)
 
 [前端技术架构图谱](https://github.com/f2e-awesome/knowledge)
+
+[互联网时代前端"手工艺人"的百宝箱](https://github.com/f2e-journey/treasure)
 
 [30 seconds](https://github.com/30-seconds)
 
@@ -84,6 +96,10 @@
 [前端进阶】优质博文](https://github.com/YvetteLau/Blog)
 
 [FE-learning](https://github.com/qiu-deqing/FE-learning#%E8%B7%9F%E5%AF%B9%E7%A5%9E)
+
+[前端真好玩](https://github.com/KieSun/awesome-fe-study-source)
+
+[优质的技术博客、社区推荐](https://github.com/phpdever/resource-index)
 
 [叶念博客](https://github.com/jawil/blog/issues/16)
 
@@ -157,6 +173,8 @@
 
 [jgchenu 博客](https://github.com/jgchenu/open-blog)
 
+[学习是自己的事](https://github.com/xiaohesong/TIL)
+
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 
 [HEAD](https://github.com/joshbuchea/HEAD)
@@ -193,6 +211,8 @@
 
 [GraphQL 学习之道](https://github.com/the-road-to-graphql/the-road-to-graphql-chinese)
 
+[learn GraphQL](https://github.com/mugli/learning-graphql)
+
 [The Road to GraphQL](https://github.com/the-road-to-graphql)
 
 [整理我平时关注的前端库](https://github.com/sorrycc/awesome-f2e-libs)
@@ -225,6 +245,10 @@
 
 [《HTTP权威指南》概念手册](https://github.com/woai30231/http)
 
+[HTTP协议原理分享](https://github.com/Q-Angelo/http-protocol#http%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B)
+
+[How Web Works](https://github.com/vasanthk/how-web-works)
+
 [ Linux命令大全搜索工具 ](https://github.com/jaywcjlove/linux-command）
 
 [bash-handbook](https://github.com/denysdovhan/bash-handbook/blob/master/translations/zh-CN/README.md)
@@ -236,6 +260,8 @@
 [vscode插件开发文档](https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/)
 
 [配置vscode](https://mp.weixin.qq.com/s/xaJYyjZdR-wVgfhm9IHnCg)
+
+[vscode插件](https://github.com/varHarrie/varharrie.github.io/issues/10)
 
 [flutter](https://jspang.com/posts/2019/03/01/flutter-shop.html#%E7%AC%AC61%E8%8A%82%EF%BC%9A%E8%B4%AD%E7%89%A9%E8%BD%A6-%E5%95%86%E5%93%81%E6%95%B0%E9%87%8F%E7%9A%84%E5%8A%A0%E5%87%8F%E6%93%8D%E4%BD%9C)
 
@@ -263,6 +289,8 @@
 
 [一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516?utm_source=gold_browser_extension)
 
+[如何写出漂亮的 JavaScript 代码](https://juejin.im/post/5d0e11196fb9a07eee5ed6d2?utm_source=gold_browser_extension)
+
 [Chrome插件开发全攻略](https://github.com/sxei/chrome-plugin-demo)
 
 [developer.chrome](https://developer.chrome.com/extensions/contextMenus)
@@ -274,6 +302,26 @@
 [Electron构建跨平台应用](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 
 [Golang笔记](https://github.com/overnote/golang)
+
+[互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+
+[ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools)
+
+[tc39进度](https://prop-tc39.now.sh/)
+
+[tc39详细进度](https://github.com/tc39/proposals)
+
+[js-ast可视化](http://resources.jointjs.com/demos/javascript-ast)
+
+[JavaScript Array Explorer](https://arrayexplorer.netlify.com/)
+
+[how to red ECMAScript Specification](https://timothygu.me/es-how-to)
+
+[变量命名神器](https://unbug.github.io/codelf/#%E6%93%8D%E4%BD%9C)
+
+[前端监控方案](https://github.com/RicardoCao-Biker/Front-End-Monitoring)
+
+[]()
 
 
 
