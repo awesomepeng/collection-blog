@@ -249,6 +249,8 @@
 
 [Electron + Next.js](https://github.com/saltyshiomix/nextron)
 
+[React Hooks for Axios.js](https://github.com/use-hooks/react-hooks-axios)
+
 ---
 
 [HEAD](https://github.com/joshbuchea/HEAD)
