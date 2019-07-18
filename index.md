@@ -351,6 +351,8 @@
 
 [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 
+[go](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/01.1.md)
+
 ---
 
 [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools)
