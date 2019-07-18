@@ -193,6 +193,28 @@
 
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 
+[React in patterns](https://juejin.im/entry/5af0e776518825670c45ddba)
+
+[React + TypeScript 50 条规范和经验](https://juejin.im/post/5ce24f8ae51d45106477bd45?utm_source=gold_browser_extension)
+
+[Hooks.guide](https://www.hooks.guide/)
+
+[build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5?gi=439de3bf5caa)
+
+[实现simple-react](https://github.com/hujiulong/simple-react)
+
+[React 面试题 & 回答](https://github.com/semlinker/reactjs-interview-questions)
+
+[STORM React Diagrams](https://github.com/projectstorm/react-diagrams)
+
+[React 性能优化](https://juejin.im/post/5c80b78a5188251ba41a041a?utm_source=gold_browser_extension)
+
+[国际化](https://github.com/formatjs/react-intl)
+
+[ssr](https://www.yuque.com/es2049/blog/zy0eq0)
+
+[剖析 React 源码](https://github.com/KieSun/Dream/issues/18)
+
 ---
 
 [HEAD](https://github.com/joshbuchea/HEAD)
@@ -415,6 +437,19 @@
 [git book](https://git-scm.com/book/zh/v2)
 
 [搜云盘](http://uyi2.com/yunso)
+
+---
+[Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+
+[剖析vue实现原理，自己动手实现mvvm](https://github.com/DMQ/mvvm)
+
+[vue技术内幕](http://hcysun.me/vue-design/zh/essence-of-comp.html#%E7%BB%84%E4%BB%B6%E7%9A%84%E4%BA%A7%E5%87%BA%E6%98%AF%E4%BB%80%E4%B9%88)
+
+[vue-patterns](https://github.com/ZYSzys/vue-patterns-cn)
+
+[VueJS 面试题](https://github.com/sudheerj/vuejs-interview-questions-chinese)
+
+[]()
 
 
 
