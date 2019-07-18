@@ -55,6 +55,8 @@
 
 [chenjigeng 博客](https://github.com/chenjigeng/blog)
 
+[安佳 Blog](https://github.com/anjia/blog)
+
 [记录前端开发中的技巧以及算法知识](https://github.com/louzhedong/blog)
 
 [灰风GreyWind的技术部落格](https://github.com/huruji/blog)
@@ -95,7 +97,11 @@
 
 [GraphQL 学习之道](https://github.com/the-road-to-graphql/the-road-to-graphql-chinese)
 
-[]()
+[The Road to GraphQL](https://github.com/the-road-to-graphql)
+
+[Webpack optimizations](https://github.com/GoogleChromeLabs/webpack-training-project)
+
+
 
 
 
