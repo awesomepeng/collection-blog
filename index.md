@@ -311,6 +311,8 @@
 
 [tc39详细进度](https://github.com/tc39/proposals)
 
+[最新 JavaScript / ECMAScript 特性介绍](https://esnext.justjavac.com/)
+
 [js-ast可视化](http://resources.jointjs.com/demos/javascript-ast)
 
 [JavaScript Array Explorer](https://arrayexplorer.netlify.com/)
