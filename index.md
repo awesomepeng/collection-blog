@@ -57,6 +57,34 @@
 
 [All algorithms implemented in Javascript ](https://github.com/TheAlgorithms/Javascript)
 
+[leetcode刷题 算法练习 JavaScript实现](https://github.com/liusaint/leetcode)
+
+[Javascript Problems & Solutions](https://github.com/jeantimex/javascript-problems-and-solutions)
+
+[算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
+
+[算法](https://github.com/lessfish/leetcode/tree/master/Algorithms)
+
+[算法珠玑——一个最精简的题库](http://book.ashan.org/algorithm-essentials/cpp/)
+
+[leetCode](https://github.com/azl397985856/leetcode)
+
+[图解算法](https://algorithms.now.sh/quicksort/)
+
+[js算法](https://github.com/mgechev/javascript-algorithms)
+
+[Pretty algorithms](https://github.com/jiayihu/pretty-algorithms)
+
+[Python & JAVA Solutions for Leetcode](https://github.com/qiyuangong/leetcode)
+
+[常用算法和数据结构讲解，面试算法题/leetcode解题，提供golang/js版本](https://github.com/qieguo2016/algorithm)
+
+[数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
+
+[JS-LeetCode](https://github.com/luxiangqiang/JS-LeetCode)
+
+[CS-in-JavaScript-by-nzakes](https://github.com/HelloLeeChan/CS-in-JavaScript-by-nzakes)
+
 ---
 
 [2018.stateofjs.com](https://2018.stateofjs.com/cn/introduction/)
