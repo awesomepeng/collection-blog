@@ -247,6 +247,8 @@
 
 [react 同构本质](https://github.com/demos-platform/react-server)
 
+[Electron + Next.js](https://github.com/saltyshiomix/nextron)
+
 ---
 
 [HEAD](https://github.com/joshbuchea/HEAD)
