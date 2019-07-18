@@ -315,7 +315,7 @@
 
 [JavaScript Array Explorer](https://arrayexplorer.netlify.com/)
 
-[how to red ECMAScript Specification](https://timothygu.me/es-how-to)
+[how to red ECMAScript Specification](https://timothygu.me/es-howto)
 
 [变量命名神器](https://unbug.github.io/codelf/#%E6%93%8D%E4%BD%9C)
 
