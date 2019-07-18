@@ -7,13 +7,29 @@
 
 [Tech Interview Guide 技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
 
+[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+[印记中文周刊](https://weekly.docschina.org/javascript/436.html)
+
 [前端基础漫游指南](https://cheogo.github.io/learn-javascript/)
 
 [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 
+[前端小白半年准备，成功进入BAT](https://github.com/brickspert/blog/issues/16)
+
+[前端面试每日 3+1](https://github.com/haizlin/fe-interview)
+
+[Some interview experience](https://github.com/WsmDyj/Interview)
+
+[笔试面试知识整理](https://hit-alibaba.github.io/interview/)
+
+[前端工程师自检清单](https://mp.weixin.qq.com/s/tdUZB_OrSTDoG92M25IGNQ)
+
 [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html)
 
 [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+
+[Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
@@ -27,9 +43,13 @@
 
 [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
+[JavaScript 前端知识图谱](https://github.com/tsejx/JavaScript-Guidebook)
+
 [All algorithms implemented in Javascript ](https://github.com/TheAlgorithms/Javascript)
 
 [javascript/design-patterns](https://www.dofactory.com/javascript/design-patterns)
+
+[现代 Web 开发导论](https://github.com/wx-chevalier/Web-Series)
 
 [30 seconds](https://github.com/30-seconds)
 
@@ -39,7 +59,15 @@
 
 [薄荷前端周刊](https://github.com/BooheeFE/weekly)
 
+[考拉前端前端博客](http://blog.kaolafed.com/)
+
+[FE-learning](https://github.com/qiu-deqing/FE-learning#%E8%B7%9F%E5%AF%B9%E7%A5%9E)
+
+[叶念博客](https://github.com/jawil/blog/issues/16)
+
 [冴羽的博客](https://github.com/mqyqingfeng/Blog)
+
+[王福朋](https://www.cnblogs.com/wangfupeng1988/tag/javascript/)
 
 [马云云博客](https://github.com/MuYunyun/blog)
 
@@ -65,6 +93,8 @@
 
 [颜海镜](https://yanhaijing.com/)
 
+[前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)
+
 [creeperyang 博客](https://github.com/creeperyang/blog/issues)
 
 [purplebamboo 博客](https://github.com/purplebamboo/blog/issues)
@@ -75,9 +105,27 @@
 
 [naice博客](https://blog.naice.me/article)
 
+[erbing博客](https://github.com/erbing/blog)
+
 [安安哥博客](https://github.com/sisterAn/blog)
 
 [洞香春博客](https://wdd.js.org/)
+
+[百度侯策](https://juejin.im/user/58305395a22b9d006b83d214/posts)
+
+[Cyrilszq博客](https://github.com/Cyrilszq/Cyril-Blog)
+
+[SunShinewyf博客](https://github.com/SunShinewyf/issue-blog)
+
+[reng99 博客](https://github.com/reng99/blogs)
+
+[huyaocode 博客](https://github.com/huyaocode/webKnowledge)
+
+[YvetteLau博客](https://github.com/YvetteLau/Blog)
+
+[言川的博客-前端精华博客](https://github.com/lihongxun945/myblog)
+
+[jgchenu 博客](https://github.com/jgchenu/open-blog)
 
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 
@@ -86,6 +134,8 @@
 [算法书下载](https://www.jqhtml.com/down/tag/%e7%ae%97%e6%b3%95)
 
 [编程书籍的整理和收集](https://github.com/KeKe-Li/book)
+
+[经典技术书籍 PDF 文件](https://github.com/royeo/awesome-programming-books)
 
 [如何成为 Node.js 全栈工程师?](https://github.com/MiYogurt/nodelover-maps)
 
@@ -111,7 +161,7 @@
 
 [Web前后端漏洞分析与防御-知识梳理](https://github.com/TYRMars/WebSafe-StepPitGuide)
 
-[storyBook](https://www.learnstorybook.com/react/zh-TW/simple-component/）
+[story Book](https://www.learnstorybook.com/react/zh-TW/simple-component/）
 
 [小程序、h5等前端领域](https://github.com/Tnfe/TNFE-Weekly)
 
@@ -119,7 +169,42 @@
 
 [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way)
 
+[nestjs 学习教程](https://github.com/dzzzzzy/Nestjs-Learning)
+
+[webpack 源码解析系列](https://github.com/lihongxun945/diving-into-webpack)
+
+[CSSinJS](https://github.com/cssinjs)
+
+[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+
+[What you should know about JavaScript arrays](https://thomlom.dev/what-you-should-know-about-js-arrays/)
+
+[css-tricks](https://css-tricks.com/guides/)
+
+[《HTTP权威指南》概念手册](https://github.com/woai30231/http)
+
+[Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command）
+
+[bash-handbook](https://github.com/denysdovhan/bash-handbook/blob/master/translations/zh-CN/README.md)
+
+[VSCode插件开发全攻略配套demo](https://github.com/sxei/vscode-plugin-demo)
+
+[vscode插件开发文档](https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/)
+
+[配置vscode](https://mp.weixin.qq.com/s/xaJYyjZdR-wVgfhm9IHnCg)
+
+[flutter](https://jspang.com/posts/2019/03/01/flutter-shop.html#%E7%AC%AC61%E8%8A%82%EF%BC%9A%E8%B4%AD%E7%89%A9%E8%BD%A6-%E5%95%86%E5%93%81%E6%95%B0%E9%87%8F%E7%9A%84%E5%8A%A0%E5%87%8F%E6%93%8D%E4%BD%9C)
+
+[油猴脚本](https://github.com/syhyz1990/baiduyun)
+
+[Serverless 架构应用开发指南](https://github.com/phodal/serverless)
+
+[faastjs](https://faastjs.org/)
+
+[GitHub 漫游指南](https://github.com/phodal/github)
+
 []()
+
 
 
 
