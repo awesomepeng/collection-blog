@@ -143,6 +143,8 @@
 
 [优质的技术博客、社区推荐](https://github.com/phpdever/resource-index)
 
+[50weekly 发现高质量的前端资源](https://github.com/ihtml5/50weekly)
+
 ---
 
 [叶念博客](https://github.com/jawil/blog/issues/16)
