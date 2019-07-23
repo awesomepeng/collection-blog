@@ -491,6 +491,8 @@
 
 [搜云盘](http://uyi2.com/yunso)
 
+[语义化版本](https://semver.org/lang/zh-CN/)
+
 ---
 [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
