@@ -85,6 +85,8 @@
 
 [CS-in-JavaScript-by-nzakes](https://github.com/HelloLeeChan/CS-in-JavaScript-by-nzakes)
 
+[编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)
+
 ---
 
 [2018.stateofjs.com](https://2018.stateofjs.com/cn/introduction/)
