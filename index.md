@@ -475,6 +475,8 @@
 
 [如何写好javascript](https://ppt.baomitu.com/d/760c9ae7#/)
 
+[es6-es5](https://github.com/addyosmani/es6-equivalents-in-es5)
+
 ---
 
 [js-ast可视化](http://resources.jointjs.com/demos/javascript-ast)
