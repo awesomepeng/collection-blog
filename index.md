@@ -116,6 +116,8 @@
 
 [互联网时代前端"手工艺人"的百宝箱](https://github.com/f2e-journey/treasure)
 
+[前端技术清单](https://github.com/alienzhou/frontend-tech-list)
+
 ---
 
 [30 seconds](https://github.com/30-seconds)
