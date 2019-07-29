@@ -55,6 +55,8 @@
 
 [一个有趣的和棘手的 JavaScript 例子列表](https://github.com/denysdovhan/wtfjs)
 
+[chrome支持的api](https://www.chromestatus.com/features/6522186978295808)
+
 ---
 
 [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
