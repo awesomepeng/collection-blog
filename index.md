@@ -461,6 +461,8 @@
 
 [控制台](https://eugeny.github.io/terminus/)
 
+[nginx在线配置工具](https://nginxconfig.io/)
+
 ---
 
 [Golang笔记](https://github.com/overnote/golang)
