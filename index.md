@@ -241,6 +241,8 @@
 
 [HTML DOM Document 对象](https://www.runoob.com/jsref/dom-obj-document.html)
 
+[html原型链](https://www.cnblogs.com/venoral/p/5338795.html)
+
 ---
 
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
