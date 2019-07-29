@@ -153,6 +153,7 @@
 [50weekly 发现高质量的前端资源](https://github.com/ihtml5/50weekly)
 
 ---
+[kentcdodds](https://github.com/kentcdodds?tab=repositories)
 
 [叶念博客](https://github.com/jawil/blog/issues/16)
 
