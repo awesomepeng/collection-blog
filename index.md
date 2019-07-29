@@ -53,6 +53,8 @@
 
 [Exploring JS: JavaScript book](https://exploringjs.com/)
 
+[一个有趣的和棘手的 JavaScript 例子列表](https://github.com/denysdovhan/wtfjs)
+
 ---
 
 [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
