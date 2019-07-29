@@ -45,6 +45,8 @@
 
 [Tools for Web Developers](https://developers.google.com/web/tools/chrome-devtools/rendering-tools/?hl=zh-cn)
 
+[w3c标准](https://www.w3.org/TR/?status=rec)
+
 [how-javascript-works](https://github.com/Troland/how-javascript-works)
 
 [Exploring JS: JavaScript book](https://exploringjs.com/)
